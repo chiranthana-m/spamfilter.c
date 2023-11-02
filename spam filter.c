@@ -1,7 +1,4 @@
-#include <stdio.h>
-#include <string.h>
-
-// Define a list of spam words
+f spam words
 const char *spamWords[] = {
     "gambling",
     "insurance",
